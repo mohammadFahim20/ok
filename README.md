@@ -1,0 +1,2 @@
+# ok
+ok bss
